@@ -1,2 +1,3 @@
 Name: Rakesh Saini
-address: Varanasi, UP
+Address: Varanasi, UP
+Pin: 221005
